@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Pistachio Calorie Ring -->
+    <path
+        android:fillColor="#FFA3E635"
+        android:pathData="M54,24 C70.57,24 84,37.43 84,54 C84,70.57 70.57,84 54,84 C37.43,84 24,70.57 24,54 C24,37.43 37.43,24 54,24 Z M54,31 C41.3,31 31,41.3 31,54 C31,66.7 41.3,77 54,77 C66.7,77 77,66.7 77,54 C77,41.3 66.7,31 54,31 Z" />
+    <!-- Fashion Dress / Sculpted Hourglass Silhouette Inside -->
+    <path
+        android:fillColor="#FFC4B5FD"
+        android:pathData="M46,37 L62,37 L59,49 C58,52 63,56 65,65 L43,65 C45,56 50,52 49,49 Z" />
+    <!-- Sparkle Star Accent -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M68,32 L70,37 L75,39 L70,41 L68,46 L66,41 L61,39 L66,37 Z" />
+</vector>

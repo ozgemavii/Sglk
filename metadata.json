@@ -1,0 +1,6 @@
+{
+  "name": "Plate & Style",
+  "description": "AI Plate & Progress Coach: Beslenme, kalori takibi, 3D vücut heykeltıraşı ve moda tasarım stüdyosu yaşam simülasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
